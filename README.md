@@ -1,6 +1,6 @@
 # 📖 Sistem Buku Tamu Digital
 
-> Sistem Buku Tamu Digital merupakan aplikasi berbasis web yang dikembangkan untuk mendigitalisasi proses pencatatan tamu pada lingkungan Kementerian Usaha Mikro, Kecil, dan Menengah Republik Indonesia. Sistem ini menggantikan proses pencatatan manual menjadi lebih cepat, terstruktur, terdokumentasi, dan mudah dikelola melalui dashboard administrasi.
+> Sistem Buku Tamu Digital merupakan aplikasi berbasis web yang dikembangkan untuk mendigitalisasi proses pencatatan tamu pada lingkungan internal instansi. Sistem ini menggantikan proses pencatatan manual menjadi lebih cepat, terstruktur, terdokumentasi, dan mudah dikelola melalui dashboard administrasi.
 
 ---
 
